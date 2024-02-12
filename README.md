@@ -4,7 +4,7 @@
 
 This mod increases the number of tiles travelled each turn while not being in combat. That way, buffs can last longer while travelling huge distances.
 
-Other functionalities can be found in [Speedshard_Core](https://github.com/remyCases/SpeedshardCore), [Speedshard_Backpack](https://github.com/remyCases/SpeedshardBackpack), Speedshard_Skinning, Speedshard_MoneyDungeons and Speedshard_Stances *(to be soon released)*.
+Other functionalities can be found in [Speedshard_Core](https://github.com/remyCases/SpeedshardCore), [Speedshard_Backpack](https://github.com/remyCases/SpeedshardBackpack), Speedshard_Skinning, [Speedshard_MoneyDungeon](https://github.com/remyCases/SpeedshardMoneyDungeon) and Speedshard_Stances *(to be soon released)*.
 
 ## Installation
 
