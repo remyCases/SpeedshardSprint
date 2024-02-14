@@ -4,7 +4,7 @@
 
 This mod increases the number of tiles travelled each turn while not being in combat. That way, buffs can last longer while travelling huge distances.
 
-Other functionalities can be found in [Speedshard_Core](https://github.com/remyCases/SpeedshardCore), [Speedshard_Backpack](https://github.com/remyCases/SpeedshardBackpack), Speedshard_Skinning, [Speedshard_MoneyDungeon](https://github.com/remyCases/SpeedshardMoneyDungeon) and Speedshard_Stances *(to be soon released)*.
+Other functionalities can be found in [Speedshard_Core](https://github.com/remyCases/SpeedshardCore), [Speedshard_Backpack](https://github.com/remyCases/SpeedshardBackpack), [Speedshard_Skinning](https://github.com/remyCases/SpeedshardSkinning), [Speedshard_MoneyDungeon](https://github.com/remyCases/SpeedshardMoneyDungeon) and Speedshard_Stances *(to be released soon)*.
 
 ## Installation
 
@@ -17,7 +17,7 @@ A [video](https://www.youtube.com/watch?v=_J0oJYGi38E&t=13s&ab_channel=Nylux) wa
 
 - Download the lastest release of [MSL](https://github.com/DDDDDragon/ModShardLauncher).
 - Unzip it.
-- **Move the `ModShard.ddl` file to your Stoneshard folder.**
+- **Move the `ModShard.dll` file to your Stoneshard folder.**
 - (Optional) Rename the data.win file in the Stoneshard folder with an other name so you'll have a backup if something went wrong.
 
 ### Using MSL
