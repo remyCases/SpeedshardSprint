@@ -16,11 +16,10 @@ public class SpeedshardSprint : Mod
 
     public override void PatchMod()
     {
-        Msl.LoadGML("gml_GlobalScript_scr_sessionDataInit")
-            .MatchFrom("scr_sessionDataInit\n{")
-            .InsertBelow(ModFiles, "load_ini.gml")
-            .Save();
-            
+        Msl.AddMenu("Sprint", 
+            new UIComponent(name:"Tiles walked by turn", associatedGlobal:"tiles_by_turn", UIComponentType.Slider, (2, 5), 4)
+        );
+
         Msl.LoadGML("gml_GlobalScript_scr_turn")
             .MatchFrom("var _x = path_get_point_x(path, step)\nvar _y = path_get_point_y(path, step)")
             .ReplaceBy(ModFiles, "turn.gml")
