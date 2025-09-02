@@ -11,8 +11,8 @@ public class SpeedshardSprint : Mod
     public override string Author => "zizani";
     public override string Name => "Speedshard - Sprint";
     public override string Description => "Walking more tiles by turn";
-    public override string Version => "2.0.1";
-    public override string TargetVersion => "0.8.2.10";
+    public override string Version => "2.1.0";
+    public override string TargetVersion => "0.9.3.7";
 
     public override void PatchMod()
     {
@@ -26,8 +26,8 @@ public class SpeedshardSprint : Mod
             .Save();
             
         Msl.LoadAssemblyAsString("gml_Object_o_player_Step_0")
-            .MatchBelow(":[35]", 4)
-            .ReplaceBy(ModFiles, "step_turn.asm")
+            .MatchFrom("call.i gml_Script_scr_turn")
+            .InsertAbove(ModFiles, "step_turn.asm")
             .Save();
     }
 }

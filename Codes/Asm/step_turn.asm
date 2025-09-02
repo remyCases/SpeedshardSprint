@@ -1,18 +1,14 @@
-call.i gml_Script_scr_getAgredMobsCount(argc=0)
+pushloc.v local._is_enemy
 conv.v.b
+not.b
 bf [802]
 
 :[801]
-push.v self.step
-push.e 1
-add.i.v
-pop.v.v self.step
-b [803]
-
-:[802]
-push.v self.step
 pushglb.v global.tiles_by_turn
+push.e 1
+sub.i.v
+push.v self.step
 add.v.v
 pop.v.v self.step
 
-:[803]
+:[802]
