@@ -4,7 +4,7 @@
 
 This mod increases the number of tiles travelled each turn while not being in combat. That way, buffs can last longer while travelling huge distances.
 
-Other functionalities can be found in [Speedshard_Core](https://github.com/remyCases/SpeedshardCore), [Speedshard_Skinning](https://github.com/remyCases/SpeedshardSkinning), [Speedshard_MoneyDungeon](https://github.com/remyCases/SpeedshardMoneyDungeon) and [Speedshard_Stances](https://github.com/remyCases/SpeedshardStances).
+Other functionalities can be found in [Speedshard_Core](https://github.com/remyCases/SpeedshardCore), [Speedshard_MoneyDungeon](https://github.com/remyCases/SpeedshardMoneyDungeon) and [Speedshard_Stances](https://github.com/remyCases/SpeedshardStances).
 
 ## Installation
 
@@ -36,26 +36,27 @@ You can now play the game with the modded version !
 
 ## Troubleshooting
 
-If you encountered some troubles while trying to patch your game, you can contact me on [Discord](https://discord.com/users/200330865522376704), and send me the latest log file found in `MSL/logs`.
+If you encountered some troubles while trying to patch your game, you can contact me on [Discord](https://discord.com/users/1291700720218931213), and send me the latest log file found in `MSL/logs`.
 
 ## See also
 
 Other mods I've made:
+
 - Stoneshard:
-    - [Character Creation](https://github.com/remyCases/CharacterCreator)
-    - [Pelt Durability](https://github.com/remyCases/Stoneshard-PeltDurability)
-    - [MoreSaveSlots](https://github.com/remyCases/Stoneshard-MoreSaveSlots)
-    - [Defeat Scenarios](https://github.com/remyCases/Stoneshard-DefeatScenarios)
-    - [Guaranteed Uniques](https://github.com/remyCases/GuaranteedUniques)
+  - [Character Creation](https://github.com/remyCases/CharacterCreator)
+  - [Pelt Durability](https://github.com/remyCases/Stoneshard-PeltDurability)
+  - [MoreSaveSlots](https://github.com/remyCases/Stoneshard-MoreSaveSlots)
+  - [Defeat Scenarios](https://github.com/remyCases/Stoneshard-DefeatScenarios)
+  - [Guaranteed Uniques](https://github.com/remyCases/GuaranteedUniques)
 
 - Shardpunk:
-    - [Shardpunk-BiggerTeam](https://github.com/remyCases/Shardpunk-BiggerTeam)
-    - [Shardpunk-Faster](https://github.com/remyCases/Shardpunk-Faster)
-    - [Shardpunk-MoreSkillLevels](https://github.com/remyCases/Shardpunk-MoreSkillLevels)
-    - [Shardpunk-RandomParty](https://github.com/remyCases/Shardpunk-RandomParty)
+  - [Shardpunk-BiggerTeam](https://github.com/remyCases/Shardpunk-BiggerTeam)
+  - [Shardpunk-Faster](https://github.com/remyCases/Shardpunk-Faster)
+  - [Shardpunk-MoreSkillLevels](https://github.com/remyCases/Shardpunk-MoreSkillLevels)
+  - [Shardpunk-RandomParty](https://github.com/remyCases/Shardpunk-RandomParty)
 
 - Airship Kingdom Adrift:
-    - [ProductionPanel](https://github.com/remyCases/AKAMod_ProdPanel)
+  - [ProductionPanel](https://github.com/remyCases/AKAMod_ProdPanel)
 
 - The Iron Oath:
-    - [AllyFreeze](https://github.com/remyCases/TheIronOath-AllyFreeze)
+  - [AllyFreeze](https://github.com/remyCases/TheIronOath-AllyFreeze)
